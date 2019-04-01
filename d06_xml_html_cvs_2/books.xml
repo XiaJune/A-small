@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books id="0001" name="米勒书库">
+    <book>
+        <title>Python</title>
+        <author>miller</author>
+        <year>2016</year>
+        <price>88.6</price>
+        <publisher>精华出版社</publisher>
+    </book>
+    <book>
+        <title>爬虫编程</title>
+        <author>黄健华</author>
+        <year>2018</year>
+        <price>116</price>
+        <publisher>水电出版社</publisher>
+    </book><book>
+        <title>数据分析</title>
+        <author>黄金</author>
+        <year>2019</year>
+        <price>11116</price>
+        <publisher>非洲出版社</publisher>
+    </book>
+
+
+</books>
+
+
