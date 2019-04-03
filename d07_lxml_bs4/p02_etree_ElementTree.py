@@ -14,5 +14,7 @@ for ele_ in root:
         print(ele_.tag, ele_.attrib, ele_.text)
 
 # 使用xpath的方式查找tree：Element支持xpath, find
-
+# find()     =>   找到第一个就返回
+# findall()  =>   找到所有返回
+# findtext() =>   找到节点 返回节点的文本
 
