@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7415725-577f-477a-81af-af78033abbf8" name="Default Changelist" comment="">
+    <list default="true" id="adb762d6-e1ff-4b7a-a5fe-2189be27a231" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../d03_socket_http/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d03_socket_http/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d04_requests/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d04_requests/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d04_requests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d04_requests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d05_xml_html_cvs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d05_xml_html_cvs/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../d06_xml_html_cvs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d06_xml_html_cvs_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d06_xml_html_cvs_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d07_lxml_bs4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../d07_lxml_bs4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,59 +17,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/d06_xml_html_cvs_2$p10_xml_sax.coverage" NAME="p10_xml_sax Coverage Results" MODIFIED="1554168156002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/d06_xml_html_cvs_2$p14_dom_builder.coverage" NAME="p14_dom_builder Coverage Results" MODIFIED="1554170197830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/d06_xml_html_cvs_2$p13_dom_pull.coverage" NAME="p13_dom_pull Coverage Results" MODIFIED="1554169959839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/d06_xml_html_cvs_2$p04_requests_response.coverage" NAME="p04_requests_response Coverage Results" MODIFIED="1554167209632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d08_bs4_py2js$p01_bs4_children.coverage" NAME="p01_bs4_children Coverage Results" MODIFIED="1554627216191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyZhihu" />
+    <SUITE FILE_PATH="coverage/d08_bs4_py2js$p05_base.coverage" NAME="p05_base Coverage Results" MODIFIED="1554365522903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyZhihu" />
+    <SUITE FILE_PATH="coverage/d08_bs4_py2js$p04_bs4_css.coverage" NAME="p04_bs4_css Coverage Results" MODIFIED="1554358095044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyZhihu" />
+    <SUITE FILE_PATH="coverage/d08_bs4_py2js$p02_bs4_tag.coverage" NAME="p02_bs4_tag Coverage Results" MODIFIED="1554627440030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyZhihu" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1046847845">
+    <session id="-1641010126">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
-          <entry key="xml" value="1" />
+          <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
-          <entry key="XML" value="1" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="437" />
+          <entry key="py" value="1590" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="437" />
+          <entry key="Python" value="1590" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p14_dom_builder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,8 +70,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/p13_dom_pull.py" />
-        <option value="$PROJECT_DIR$/p14_dom_builder.py" />
+        <option value="$PROJECT_DIR$/PyZhihu/p04_bs4_css.py" />
+        <option value="$PROJECT_DIR$/PyZhihu/p05_base.py" />
+        <option value="$PROJECT_DIR$/PyZhihu/p01_bs4_children.py" />
+        <option value="$PROJECT_DIR$/PyZhihu/p02_bs4_tag.py" />
       </list>
     </option>
   </component>
@@ -91,10 +84,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="303" />
-    <option name="y" value="71" />
-    <option name="width" value="1136" />
-    <option name="height" value="861" />
+    <option name="x" value="1024" />
+    <option name="y" value="108" />
+    <option name="width" value="1529" />
+    <option name="height" value="932" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -104,23 +97,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="d06_xml_html_cvs_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="d06_xml_html_cvs_2" type="462c0819:PsiDirectoryNode" />
+              <item name="d08_bs4_py2js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d08_bs4_py2js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d08_bs4_py2js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d08_bs4_py2js" type="462c0819:PsiDirectoryNode" />
+              <item name="PyZhihu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d08_bs4_py2js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d07_lxml_bs4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d09_mongdb_redis_cvs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
@@ -137,21 +139,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p14_dom_builder">
-    <configuration name="p04_requests_response" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="d06_xml_html_cvs_2" />
+  <component name="RunManager" selected="Python.p02_bs4_tag">
+    <configuration name="p01_bs4_children" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="d08_bs4_py2js" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyZhihu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p04_requests_response.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyZhihu/p01_bs4_children.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,20 +162,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p10_xml_sax" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="d06_xml_html_cvs_2" />
+    <configuration name="p02_bs4_tag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="d08_bs4_py2js" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyZhihu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p10_xml_sax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyZhihu/p02_bs4_tag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,20 +184,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p13_dom_pull" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="d06_xml_html_cvs_2" />
+    <configuration name="p04_bs4_css" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="d08_bs4_py2js" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyZhihu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p13_dom_pull.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyZhihu/p04_bs4_css.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,20 +206,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p14_dom_builder" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="d06_xml_html_cvs_2" />
+    <configuration name="p05_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="d08_bs4_py2js" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyZhihu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p14_dom_builder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyZhihu/p05_base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,17 +229,17 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.p04_requests_response" />
-      <item itemvalue="Python.p10_xml_sax" />
-      <item itemvalue="Python.p13_dom_pull" />
-      <item itemvalue="Python.p14_dom_builder" />
+      <item itemvalue="Python.p01_bs4_children" />
+      <item itemvalue="Python.p02_bs4_tag" />
+      <item itemvalue="Python.p04_bs4_css" />
+      <item itemvalue="Python.p05_base" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p14_dom_builder" />
-        <item itemvalue="Python.p13_dom_pull" />
-        <item itemvalue="Python.p10_xml_sax" />
-        <item itemvalue="Python.p04_requests_response" />
+        <item itemvalue="Python.p02_bs4_tag" />
+        <item itemvalue="Python.p01_bs4_children" />
+        <item itemvalue="Python.p05_base" />
+        <item itemvalue="Python.p04_bs4_css" />
       </list>
     </recent_temporary>
   </component>
@@ -246,23 +248,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a7415725-577f-477a-81af-af78033abbf8" name="Default Changelist" comment="" />
-      <created>1554166956419</created>
+      <changelist id="adb762d6-e1ff-4b7a-a5fe-2189be27a231" name="Default Changelist" comment="" />
+      <created>1554348595919</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554166956419</updated>
+      <updated>1554348595919</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="303" y="71" width="1136" height="861" extended-state="0" />
+    <frame x="1024" y="108" width="1529" height="932" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35315984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1354663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.672748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5683814" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -271,7 +273,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.9958678" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32880434" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -286,69 +288,53 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/python/Lib/site-packages/bs4/__init__.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/p04_requests_response.py">
+    <entry file="file://$PROJECT_DIR$/PyZhihu/p05_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
+        <state relative-caret-position="264">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p08_requests_adapter.py">
+    <entry file="file://$PROJECT_DIR$/PyZhihu/p04_bs4_css.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="429">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1947">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#841#850#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p13_dom_pull.py">
+    <entry file="file://$PROJECT_DIR$/PyZhihu/p02_bs4_tag.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="395">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books.xml">
+    <entry file="file://$PROJECT_DIR$/PyZhihu/p01_bs4_children.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p10_xml_sax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1023">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p09_requests_session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-287100998/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="477" column="4" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p14_dom_builder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="74" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
