@@ -37,19 +37,27 @@ class WebChatHelper(QThread):
 
     def get_friends(self):
         lst_user = []
-        # friends = itchat.get_chatrooms()    #获得聊天室
+        # friend_s = itchat.get_chatrooms()    #获得聊天室
         friends = itchat.get_friends()    #获得好友
-
         for friend_ in friends:
             user = {}
             user['NickName'] = friend_['NickName']
             user['UserName'] = friend_['UserName']
             lst_user.append(user)
-
         return lst_user
 
-    def send_msg(self, user_, msg_):
-        itchat.send_msg(msg=msg_, toUserName=user_)
+    # def get_chatrooms(self):
+    #     lst_user = []
+    #     friends = itchat.get_chatrooms()  # 获得聊天室
+    #     # friends = itchat.get_head_img
+    #     for friend_ in friends:
+    #         user = {}
+    #         user['NickName'] = friend_['NickName']
+    #         user['UserName'] = friend_['UserName']
+    #         lst_user.append(user)
+    #     return lst_user
+    # def send_msg(self, user_, msg_):
+    #     itchat.send_msg(msg=msg_, toUserName=user_)
 
 
 

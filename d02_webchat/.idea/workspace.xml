@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7205edef-0412-4f54-b0a7-2a9a5a3e1da0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/ClassCodes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/webchatapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/webchatapp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/helpers/webchathelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/webchathelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itchat.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/itchat.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uis/ui_webchatmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/uis/ui_webchatmain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uis/widchatmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/uis/widchatmain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/.idea/d09_mongdb_redis_csv.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/crawle/lagouapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/crawle/lagoucrawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/crawle/mongostorage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/p01_csv_writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/p02_csv_reader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../d09_mongdb_redis_csv/tencent.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miller_cre/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../miller_cre/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miller_cre/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/../miller_cre/text.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +37,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/d02_webchat$widchatmain.coverage" NAME="widchatmain Coverage Results" MODIFIED="1553582007402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uis" />
     <SUITE FILE_PATH="coverage/d02_webchat$ui_login.coverage" NAME="ui_login Coverage Results" MODIFIED="1553582219270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uis" />
-    <SUITE FILE_PATH="coverage/d02_webchat$test.coverage" NAME="test Coverage Results" MODIFIED="1554002378623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d02_webchat$test.coverage" NAME="test Coverage Results" MODIFIED="1555146749287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/d02_webchat$dlgqrlogin.coverage" NAME="dlgqrlogin Coverage Results" MODIFIED="1553582002706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uis" />
     <SUITE FILE_PATH="coverage/d02_webchat$webchatapp.coverage" NAME="webchatapp Coverage Results" MODIFIED="1553582009837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apps" />
-    <SUITE FILE_PATH="coverage/d02_webchat$main.coverage" NAME="main Coverage Results" MODIFIED="1554000915484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d02_webchat$main.coverage" NAME="main Coverage Results" MODIFIED="1555289579721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/d02_webchat$lq.coverage" NAME="lq Coverage Results" MODIFIED="1555147449019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/uis" />
     <SUITE FILE_PATH="coverage/d02_webchat$webchathelper.coverage" NAME="webchathelper Coverage Results" MODIFIED="1553582012330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helpers" />
   </component>
   <component name="DatabaseView">
@@ -39,55 +62,73 @@
     <session id="994388594">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpg" value="1" />
-          <entry key="pkl" value="1" />
-          <entry key="py" value="64" />
+          <entry key="jpg" value="4" />
+          <entry key="pkl" value="2" />
+          <entry key="py" value="99" />
           <entry key="ui" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="64" />
+          <entry key="Image" value="4" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="99" />
           <entry key="Qt UI file" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="4088" />
+          <entry key="py" value="4434" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="4088" />
+          <entry key="Python" value="4434" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/webchatapp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2144">
-              <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
+            <state relative-caret-position="1089">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helpers/webchathelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1617">
+              <caret line="50" column="26" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="26" />
               <folding>
-                <element signature="e#109#135#0" expanded="true" />
+                <element signature="e#17#43#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uis/widchatmain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -102,7 +143,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -114,11 +155,12 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/uis/ui_login.py" />
         <option value="$PROJECT_DIR$/uis/dlgqrlogin.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/apps/webchatapp.py" />
-        <option value="$PROJECT_DIR$/helpers/webchathelper.py" />
         <option value="$PROJECT_DIR$/uis/widchatmain.py" />
         <option value="$PROJECT_DIR$/uis/ui_webchatmain.py" />
-        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/uis/lq.py" />
+        <option value="$PROJECT_DIR$/helpers/webchathelper.py" />
       </list>
     </option>
   </component>
@@ -129,17 +171,20 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="698" />
-    <option name="y" value="160" />
+    <option name="x" value="260" />
+    <option name="y" value="18" />
     <option name="width" value="1563" />
-    <option name="height" value="1008" />
+    <option name="height" value="1028" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,19 +195,32 @@
             <path>
               <item name="d02_webchat" type="b2602c69:ProjectViewProjectNode" />
               <item name="d02_webchat" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d02_webchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d02_webchat" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d02_webchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d02_webchat" type="462c0819:PsiDirectoryNode" />
               <item name="uis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d02_webchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/ClassCodes-master/d02_webchat/apps/__init__.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d06_xml_html_cvs" />
+    <property name="last_opened_file_path" value="E:/PyCharm源代码/DataBase" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -187,7 +245,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="lq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="d02_webchat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/uis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uis/lq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="d02_webchat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,28 +334,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="webchatapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="d02_webchat" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/apps" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apps/webchatapp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="webchathelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="d02_webchat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,18 +358,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.webchatapp" />
       <item itemvalue="Python.webchathelper" />
       <item itemvalue="Python.ui_login" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.lq" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.lq" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.ui_login" />
         <item itemvalue="Python.webchathelper" />
-        <item itemvalue="Python.webchatapp" />
       </list>
     </recent_temporary>
   </component>
@@ -344,14 +402,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="160" width="1563" height="1008" extended-state="0" />
+    <frame x="260" y="18" width="1563" height="1028" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12974052" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13373253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966735" weight="0.22565866" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499002" weight="0.17021276" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39633447" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,9 +417,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033265" side_tool="true" weight="0.44379392" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27684346" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33112583" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.500998" side_tool="true" weight="0.22565866" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -403,41 +461,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="微信" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/apps/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helpers/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uis/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python/Lib/site-packages/itchat/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python/Lib/site-packages/itchat/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="42" column="72" lean-forward="true" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uis/ui_login.ui">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -445,67 +468,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/user.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/helpers/webchathelper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/webchatapp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uis/ui_webchatmain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1287">
-          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/python/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="2295" selection-start-line="2295" selection-end-line="2295" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uis/dlgqrlogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uis/ui_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itchat.pkl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uis/widchatmain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -518,20 +484,118 @@
     </entry>
     <entry file="file://D:/Sublime Text 3/sublime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/user.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/itchat/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/itchat/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="235" column="8" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uis/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uis/dlgqrlogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uis/ui_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-287100998/PyQt5/QtWidgets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uis/ui_webchatmain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/urllib3/connectionpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="841" column="3" lean-forward="true" selection-start-line="841" selection-start-column="3" selection-end-line="841" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uis/qrcode.jpg" />
+    <entry file="file://$PROJECT_DIR$/uis/lq.py" />
+    <entry file="file://$PROJECT_DIR$/itchat.pkl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="110" column="32" lean-forward="true" selection-start-line="110" selection-start-column="32" selection-end-line="110" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/webchatapp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/webchathelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1617">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="26" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#17#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/uis/widchatmain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2144">
-          <caret line="146" column="25" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="25" />
-          <folding>
-            <element signature="e#109#135#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
         </state>
       </provider>
     </entry>

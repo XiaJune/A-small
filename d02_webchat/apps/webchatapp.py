@@ -33,6 +33,8 @@ class WebChatApp(QObject):
         self.ui_login.destroy() #  释放登录窗口
         # 加载用户列表
         self.ui_main.show_user_list()
+        # #  加载聊天室
+        # self.ui_main.show_userd_list()
         # 登录成功 显示主窗体
         self.ui_main.show()     # 显示聊天窗口
 

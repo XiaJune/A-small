@@ -41,6 +41,7 @@ class WidChatMain(QWidget):
     def show_user_list(self):
         #调用辅助类 获取用户列表
         lst_users = self.chat.get_friends()
+
         # 显示用户列表到别表框
         for user_ in lst_users:
             user_name = user_['UserName']    # 发送时使用的用户ID
@@ -49,3 +50,23 @@ class WidChatMain(QWidget):
             item_ = QStandardItem(icon_head, nick_name) # 得到数据项
             item_.setData(user_name)
             self.model.appendRow(item_) # 添加到模型里面
+
+    # def show_userd_list(self):
+    #     lst_userd = self.chat.get_chatrooms()
+    #     for userd in lst_userd:
+    #         user_name = userd['UserName']  # 发送时使用的用户ID
+    #         nick_name = userd['NickName']  # 显示这个类
+    #         icon_head = QIcon(self.chat.get_head_)
+    #         item_ = QStandardItem(icon_head, nick_name)  # 得到数据项
+    #         item_.setData(user_name)
+    #         self.model.appendRow(item_)  # 添加到模型里面
+
+
+
+
+
+
+
+
+
+
